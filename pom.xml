@@ -13,7 +13,7 @@
 		<junit.version>5.7.0</junit.version>
 		<javax.activation.version>1.2.0</javax.activation.version>
 		<jaxb.api.version>2.3.3</jaxb.api.version>
-		<jaxb.core.version>2.3.0.1</jaxb.core.version>
+		<jaxb.core.version>3.0.0</jaxb.core.version>
 		<jaxb.runtime.version>2.3.3</jaxb.runtime.version>
 		<lombok.version>1.18.16</lombok.version>
 	</properties>
