@@ -2,9 +2,9 @@ package com.khubla.gxl4j;
 
 import java.io.*;
 
-import javax.xml.bind.*;
-
 import com.khubla.gxl4j.generated.*;
+
+import jakarta.xml.bind.*;
 
 public class GXLMarshaller {
 	private final static String PACKAGE = "com.khubla.gxl4j.generated";
